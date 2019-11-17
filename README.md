@@ -11,3 +11,5 @@ My solutions for [Florin Pop](https://www.florin-pop.com/blog/2019/03/weekly-cod
 - **Week 7**: Portfolio - [CodePen preview](https://codepen.io/liloo2040/pen/YzzqXVE)
 - **Week 8**: Chat Interface - [CodePen preview](https://codepen.io/liloo2040/pen/WNNRxNJ)
 - **Week 9**: Modal - [CodePen preview](https://codepen.io/liloo2040/pen/xxxpwjX)
+- **Week 10**: Clock - CodePen preview + code coming Soon
+- **Week 11**: Tooltip - [CodePen](https://codepen.io/liloo2040/pen/XWWBOJK)
