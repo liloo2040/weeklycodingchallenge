@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+    background: #022f40;
+    margin-top: 100px;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.tooltip {
+    background-color: #508991;
+    border-radius: 10px;
+    padding: 10px 15px;
+    position: relative;
+    margin: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.tooltip::after {
+    background-color: #ceaa52;
+    border-radius: 10px;
+    color: #13293d;
+    display: none;
+    padding: 10px 15px;
+    position: absolute;
+    text-align: center;
+    z-index: 999;
+    text-transform: uppercase;
+}
+
+.tooltip.top::after {
+    content: 'top';
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, calc(-100% - 10px));
+}
+
+.tooltip.bottom::after {
+    content: 'bottom';
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, calc(100% + 10px));
+}
+
+.tooltip.right::after {
+    content: 'right';
+    top: 0;
+    right: 0;
+    transform: translatex(calc(100% + 10px));
+}
+
+.tooltip.left::after {
+    content: 'left';
+    top: 0;
+    left: 0;
+    transform: translatex(calc(-100% - 10px));
+}
+
+.tooltip:hover::after {
+    display: block;
+}
+
+.tooltip:before {
+    background-color: #ceaa52;
+    content: '';
+    display: none;
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    z-index: 999;
+}
+
+.tooltip:hover::before {
+    display: block;
+}
+
+.tooltip.top::before {
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, calc(-100% - 5px))rotate(45deg);
+}
+
+.tooltip.bottom::before {
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, calc(100% + 5px)) rotate(45deg);
+}
+
+.tooltip.right:before {
+    top: 50%;
+    right: 0;
+    transform: translate(calc(100% + 5px))rotate(45deg);
+}
+
+.tooltip.left::before {
+    top: 50%;
+    left: 0;
+    transform: translate(calc(-100% - 5px))rotate(45deg);
+}
