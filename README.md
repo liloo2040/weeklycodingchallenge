@@ -14,3 +14,4 @@ My solutions for [Florin Pop](https://www.florin-pop.com/blog/2019/03/weekly-cod
 - **Week 10**: Clock - CodePen preview + code coming Soon
 - **Week 11**: Tooltip - [CodePen preview](https://codepen.io/liloo2040/pen/XWWBOJK)
 - **Week 12**: Toggle - [CodePen preview](https://codepen.io/liloo2040/pen/abbPKeN)
+- **Week 13**: Accordion - [CodePen preview](https://codepen.io/liloo2040/pen/poomqyY)
