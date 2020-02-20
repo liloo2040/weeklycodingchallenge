@@ -15,3 +15,4 @@ My solutions for [Florin Pop](https://www.florin-pop.com/blog/2019/03/weekly-cod
 - **Week 11**: Tooltip - [CodePen preview](https://codepen.io/liloo2040/pen/XWWBOJK)
 - **Week 12**: Toggle - [CodePen preview](https://codepen.io/liloo2040/pen/abbPKeN)
 - **Week 13**: Accordion - [CodePen preview](https://codepen.io/liloo2040/pen/poomqyY)
+- **Week 14**: ProgressBar - [CodePen Preview](https://codepen.io/liloo2040/pen/povvgVp)

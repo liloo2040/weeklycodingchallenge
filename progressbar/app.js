@@ -1,5 +1,5 @@
 
-    const progress_bars = document.querySelectorAll('progress');
+const progress_bars = document.querySelectorAll('.progress');
 
 progress_bars.forEach(bar => {
     const { size } = bar.dataset;
