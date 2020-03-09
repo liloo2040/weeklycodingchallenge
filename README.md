@@ -16,3 +16,6 @@ My solutions for [Florin Pop](https://www.florin-pop.com/blog/2019/03/weekly-cod
 - **Week 12**: Toggle - [CodePen preview](https://codepen.io/liloo2040/pen/abbPKeN)
 - **Week 13**: Accordion - [CodePen preview](https://codepen.io/liloo2040/pen/poomqyY)
 - **Week 14**: ProgressBar - [CodePen Preview](https://codepen.io/liloo2040/pen/povvgVp)
+- **Week 15**: Instant Search - [CodePen Preview](https://codepen.io/liloo2040/pen/eYNgWrE)
+- **Week 16**: Notification Box - [CodePen Preview](https://codepen.io/liloo2040/pen/ZEGyPoK)
+- **Week 17**: Pagination - [CodePen Preview](https://codepen.io/liloo2040/pen/BaNJKed)
