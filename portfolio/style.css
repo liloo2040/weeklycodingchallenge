@@ -24,6 +24,7 @@ h1 {
     overflow: hidden;
     position: relative;
     width: 30%;
+    height: 150px;
 }
 
 .portfolio-item img {
